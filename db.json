@@ -1,0 +1,20 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "firstName": "nguyễn ",
+      "lastName": "hữu thịnh",
+      "Username": "binga123",
+      "Email": "a@gmail.com",
+      "Address": "502 đỗ xuân hợp"
+    },
+    {
+      "firstName": "hữu",
+      "lastName": "bin ",
+      "Username": "provjp",
+      "Email": "provjp@gmail.com",
+      "Address": "22/8b",
+      "id": 2
+    }
+  ]
+}
